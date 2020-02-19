@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [searchSuite]">
+  <test thread-count="5" name="searchTest(failed)">
+    <classes>
+      <class name="com.qa.linkedin.testcase.SearchDataDrivenTest">
+        <methods>
+          <include name="doLogOutTearDown"/>
+          <include name="tearDown"/>
+          <include name="loginTest"/>
+          <include name="searchPeopleTest"/>
+          <include name="setup"/>
+          <include name="initlizeObjects"/>
+        </methods>
+      </class> <!-- com.qa.linkedin.testcase.SearchDataDrivenTest -->
+    </classes>
+  </test> <!-- searchTest(failed) -->
+</suite> <!-- Failed suite [searchSuite] -->

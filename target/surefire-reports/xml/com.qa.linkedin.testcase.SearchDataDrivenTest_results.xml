@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="searchTest"
+           tests="8"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="136.894">
+  <properties />
+  
+  
+            <testcase name="searchPeopleTest" time="9.377" classname="com.qa.linkedin.testcase.SearchDataDrivenTest" />
+                <testcase name="searchPeopleTest" time="8.604" classname="com.qa.linkedin.testcase.SearchDataDrivenTest" />
+                <testcase name="searchPeopleTest" time="8.576" classname="com.qa.linkedin.testcase.SearchDataDrivenTest" />
+                <testcase name="searchPeopleTest" time="8.039" classname="com.qa.linkedin.testcase.SearchDataDrivenTest" />
+                <testcase name="searchPeopleTest" time="7.437" classname="com.qa.linkedin.testcase.SearchDataDrivenTest" />
+                <testcase name="searchPeopleTest" time="8.502" classname="com.qa.linkedin.testcase.SearchDataDrivenTest" />
+                <testcase name="searchPeopleTest" time="8.973" classname="com.qa.linkedin.testcase.SearchDataDrivenTest" />
+                <testcase name="loginTest" time="77.386" classname="com.qa.linkedin.testcase.SearchDataDrivenTest" />
+      
+</testsuite>

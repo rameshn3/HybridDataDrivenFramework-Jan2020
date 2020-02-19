@@ -1,0 +1,65 @@
+04/02/2020 07:47:49 devpinoyLogger browser is lanched
+04/02/2020 07:48:05 devpinoyLogger application url is opened:http://linkedin.com
+04/02/2020 07:48:06 devpinoyLogger initilize the objects in BeforeClass annotation
+04/02/2020 07:48:07 devpinoyLogger Started Executing loginTest()....
+04/02/2020 07:48:07 devpinoyLogger verifying the linkedin landing page title-->LinkedIn: Log In or Sign Up
+04/02/2020 07:48:14 devpinoyLogger verified the linkedin logo
+04/02/2020 07:48:14 devpinoyLogger clicking on signin link
+04/02/2020 07:48:44 devpinoyLogger clicked on signin link in landing page
+04/02/2020 07:48:57 devpinoyLogger typed the username value in email_editbox-->rameshqaonline@gmail.com
+04/02/2020 07:48:57 devpinoyLogger Typed the password value in password editbox-->welcome123$
+04/02/2020 07:49:39 devpinoyLogger number of rows in the excel sheet is-->7
+04/02/2020 07:49:39 devpinoyLogger number of columns in the excel sheet is -->1
+04/02/2020 07:49:39 devpinoyLogger type the people search Ramesh in search editbox
+04/02/2020 07:49:39 devpinoyLogger click on searc htorch icon
+04/02/2020 07:49:45 devpinoyLogger waiting for the search results page title -- Search | LinkedIn
+04/02/2020 07:49:46 devpinoyLogger wait for the search results text
+04/02/2020 07:49:46 devpinoyLogger getting the results text from webpage
+04/02/2020 07:49:46 devpinoyLogger results count in string format is-->241,847
+04/02/2020 07:49:46 devpinoyLogger search results count for: Ramesh is -->241847
+04/02/2020 07:49:48 devpinoyLogger type the people search Rohini in search editbox
+04/02/2020 07:49:49 devpinoyLogger click on searc htorch icon
+04/02/2020 07:49:56 devpinoyLogger waiting for the search results page title -- Search | LinkedIn
+04/02/2020 07:49:56 devpinoyLogger wait for the search results text
+04/02/2020 07:49:56 devpinoyLogger getting the results text from webpage
+04/02/2020 07:49:56 devpinoyLogger results count in string format is-->41,694
+04/02/2020 07:49:56 devpinoyLogger search results count for: Rohini is -->41694
+04/02/2020 07:49:56 devpinoyLogger type the people search Prakash in search editbox
+04/02/2020 07:49:58 devpinoyLogger click on searc htorch icon
+04/02/2020 07:50:04 devpinoyLogger waiting for the search results page title -- Search | LinkedIn
+04/02/2020 07:50:04 devpinoyLogger wait for the search results text
+04/02/2020 07:50:04 devpinoyLogger getting the results text from webpage
+04/02/2020 07:50:04 devpinoyLogger results count in string format is-->327,811
+04/02/2020 07:50:04 devpinoyLogger search results count for: Prakash is -->327811
+04/02/2020 07:50:06 devpinoyLogger type the people search Meenakshi in search editbox
+04/02/2020 07:50:07 devpinoyLogger click on searc htorch icon
+04/02/2020 07:50:12 devpinoyLogger waiting for the search results page title -- Search | LinkedIn
+04/02/2020 07:50:12 devpinoyLogger wait for the search results text
+04/02/2020 07:50:12 devpinoyLogger getting the results text from webpage
+04/02/2020 07:50:12 devpinoyLogger results count in string format is-->61,886
+04/02/2020 07:50:12 devpinoyLogger search results count for: Meenakshi is -->61886
+04/02/2020 07:50:14 devpinoyLogger type the people search Divya in search editbox
+04/02/2020 07:50:15 devpinoyLogger click on searc htorch icon
+04/02/2020 07:50:20 devpinoyLogger waiting for the search results page title -- Search | LinkedIn
+04/02/2020 07:50:20 devpinoyLogger wait for the search results text
+04/02/2020 07:50:20 devpinoyLogger getting the results text from webpage
+04/02/2020 07:50:21 devpinoyLogger results count in string format is-->134,698
+04/02/2020 07:50:21 devpinoyLogger search results count for: Divya is -->134698
+04/02/2020 07:50:22 devpinoyLogger type the people search Vasavi in search editbox
+04/02/2020 07:50:23 devpinoyLogger click on searc htorch icon
+04/02/2020 07:50:28 devpinoyLogger waiting for the search results page title -- Search | LinkedIn
+04/02/2020 07:50:28 devpinoyLogger wait for the search results text
+04/02/2020 07:50:28 devpinoyLogger getting the results text from webpage
+04/02/2020 07:50:28 devpinoyLogger results count in string format is-->30,851
+04/02/2020 07:50:28 devpinoyLogger search results count for: Vasavi is -->30851
+04/02/2020 07:50:30 devpinoyLogger type the people search Lavanya in search editbox
+04/02/2020 07:50:32 devpinoyLogger click on searc htorch icon
+04/02/2020 07:50:38 devpinoyLogger waiting for the search results page title -- Search | LinkedIn
+04/02/2020 07:50:38 devpinoyLogger wait for the search results text
+04/02/2020 07:50:38 devpinoyLogger getting the results text from webpage
+04/02/2020 07:50:38 devpinoyLogger results count in string format is-->32,318
+04/02/2020 07:50:38 devpinoyLogger search results count for: Lavanya is -->32318
+04/02/2020 07:50:38 devpinoyLogger click on profile image icon
+04/02/2020 07:50:42 devpinoyLogger waiting for the element signout link in the menu
+04/02/2020 07:50:42 devpinoyLogger clicking on signout link
+04/02/2020 07:51:09 devpinoyLogger browser is closed
